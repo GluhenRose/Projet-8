@@ -79,8 +79,8 @@ body {
 }
 
 .about-me__title {
-	margin-top: 1em;
-	margin-bottom: 60px;
+	margin-top: 10px;
+	margin-bottom: 20px;
 	font-size: 30px;
 }
 
@@ -367,4 +367,3 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
-
