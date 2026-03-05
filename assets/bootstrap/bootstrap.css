@@ -6052,11 +6052,11 @@ textarea.form-control-lg {
   justify-content: center;
   width: 15%;
   padding: 0;
-  color: #fff;
+  color: #474747;
   text-align: center;
   background: none;
   border: 0;
-  opacity: 0.5;
+  opacity: 1;
   transition: opacity 0.15s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -6121,6 +6121,7 @@ textarea.form-control-lg {
   margin-bottom: 1rem;
   margin-left: 15%;
   list-style: none;
+  color: #474747;
 }
 .carousel-indicators [data-bs-target] {
   box-sizing: content-box;
